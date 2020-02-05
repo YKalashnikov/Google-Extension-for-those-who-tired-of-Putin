@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Подмена Владимира Путина",
+  "name": "Get rid of Putin",
   "version": "0.1.0",
   "content_scripts": [
     {
